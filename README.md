@@ -1,5 +1,9 @@
 # News Image — 18 November 2026
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/gjszhub/news-image-entry/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/gjszhub/news-image-entry/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 Entry for make.fun `news-image-20261118`: sum up 18 November's world
 news in one image.
 
@@ -17,3 +21,7 @@ its four biggest stories:
 - **Nvidia** — Revenue doubles to $115.8 billion
 
 Run it: `MAKEFUN_OUTPUT_DIR=out python3 main.py`
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=50jqpfk7&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
